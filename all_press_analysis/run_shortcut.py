@@ -1,0 +1,1 @@
+movingsinglejob(anglestart, angleend, sensor, dates, "Press_Angle", batch_info_dict, press_db, jobdates, part)
